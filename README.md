@@ -15,4 +15,4 @@ El uso de herramientas TIC ofrece un amplio potencial como manera de facilitar l
 
 Palabras clave: evaluación de escalas, retroalimentación, plataforma digital de apoyo al aprendizaje, piano, MIDI
 
-Descarga el prototipo de PianoFORTE
+[Descarga el prototipo de PianoFORTE](https://github.com/ifigueroap/pianoforte-release/blob/master/PianoFORTE.zip)
